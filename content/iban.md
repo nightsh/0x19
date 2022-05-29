@@ -1,5 +1,4 @@
 +++
-draft = true
 note = "NITU VICTOR\n\nRO81 RZBR 0000 0600 1474 1674 (EUR)\nRO46 RZBR 0000 0600 1040 3688 (RON)\nRO92 RZBR 0000 0600 1873 0989 (USD)\n\nRaiffeisen Bank, Bucharest, Romania"
 
 +++
