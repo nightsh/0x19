@@ -1,4 +1,13 @@
 ---
 label: Notes
 hide_body: true
-fields: []
+fields:
+- name: note
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Note
